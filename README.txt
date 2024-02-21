@@ -1,0 +1,2 @@
+1.file changes reside in one of working,staged,repo area 
+working area--there can be a bunch of file that are not currntly handleby git.it means that cahnages done or in those file are not managed by a git yet
